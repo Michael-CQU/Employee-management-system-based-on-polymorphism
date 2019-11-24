@@ -15,6 +15,9 @@ int main()
 	//worker->showInfo();
 	//delete worker;
 
+
+
+
 	//worker = new Manager(2, "����", 2);
 	//worker->showInfo();
 	//delete worker;
