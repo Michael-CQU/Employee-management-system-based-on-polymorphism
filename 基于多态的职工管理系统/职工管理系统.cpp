@@ -1,4 +1,4 @@
-#include <iostream> 
+﻿#include <iostream> 
 using  namespace std;
 #include "workerManager.h"
 
@@ -15,7 +15,7 @@ int main()
 	//worker->showInfo();
 	//delete worker;
 
-
+	//测试一下上传效果
 
 
 	//worker = new Manager(2, "����", 2);
