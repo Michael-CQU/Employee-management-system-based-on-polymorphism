@@ -16,6 +16,7 @@ int main()
 	//delete worker;
 
 	//测试一下上传效果
+	//进行字体测试
 
 
 	//worker = new Manager(2, "����", 2);
