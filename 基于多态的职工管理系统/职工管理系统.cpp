@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-	WorkerManager wm;
+	WorkerManager wm;//测试完毕
 	int choice = 0;
 	while (1)
 	{
